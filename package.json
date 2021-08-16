@@ -1,0 +1,21 @@
+{
+  "name": "sandboxing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "cli-progress": "^3.9.0",
+    "looks-same": "^7.3.0",
+    "native-image-diff": "^0.1.14",
+    "node-libpng": "^0.2.20",
+    "pureimage": "^0.3.2"
+  }
+}
